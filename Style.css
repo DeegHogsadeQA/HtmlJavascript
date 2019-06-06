@@ -1,0 +1,38 @@
+body {
+    display:block;
+    height: 6000px;
+}
+
+
+/* p {
+    color: orange;
+    border: 5px solid pink;
+    width: 112px;
+    height: 112px;
+    overflow-y: scroll;
+} */
+
+#input1{
+     margin-left: 10px; 
+}
+
+#input2{
+    margin-left: 10px;
+}
+
+button {
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+  margin-left: 10px;
+}
+
+button:hover {
+  background-color: #4CAF50; /* Green */
+  color: white;
+}
+
+ /* th, td {
+  border: 1px solid black;
+  padding: 15px;
+  text-align: left;
+}  */
